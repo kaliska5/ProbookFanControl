@@ -1,3 +1,3 @@
 # ProbookFanControl
-Program for Linux to Control FAN in Probook4540s.
+Program for Linux to Control Fan speed in Hp Probook4540s.
 
